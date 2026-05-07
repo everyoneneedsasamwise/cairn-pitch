@@ -199,8 +199,8 @@ export default function AdvisorsDeck() {
             <p className="text-stone-300 text-lg max-w-xl mx-auto mb-10">
               The advisor directory launches with the public release. Reserve a featured spot now to be live on day one.
             </p>
-            <a href="mailto:advisors@cairn.money?subject=Cairn%20advisor%20interest" className="inline-flex items-center gap-2 px-7 py-3.5 bg-amber-500 text-stone-950 rounded-full font-medium text-lg hover:bg-amber-400 transition-colors">
-              advisors@cairn.money <ArrowRight className="w-5 h-5" />
+            <a href="mailto:advisors@cairnfund.com?subject=Cairn%20advisor%20interest" className="inline-flex items-center gap-2 px-7 py-3.5 bg-amber-500 text-stone-950 rounded-full font-medium text-lg hover:bg-amber-400 transition-colors">
+              advisors@cairnfund.com <ArrowRight className="w-5 h-5" />
             </a>
             <p className="text-stone-500 text-xs mt-12">Reply with your CFP / CPA number, geography, and fee structure. We&apos;ll send you the onboarding form.</p>
           </div>
