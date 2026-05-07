@@ -145,7 +145,7 @@ export default function UsersDeck() {
             <p className="text-stone-300 text-lg max-w-xl mx-auto mb-10">
               Five questions, five minutes, a real plan you control.
             </p>
-            <a href="https://retirement-planner.vercel.app" className="inline-flex items-center gap-2 px-7 py-3.5 bg-amber-500 text-stone-950 rounded-full font-medium text-lg hover:bg-amber-400 transition-colors">
+            <a href="https://retirement-planner-rho.vercel.app" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-7 py-3.5 bg-amber-500 text-stone-950 rounded-full font-medium text-lg hover:bg-amber-400 transition-colors">
               Try Cairn <ArrowRight className="w-5 h-5" />
             </a>
             <p className="text-stone-500 text-xs mt-12">No credit card to start.</p>
