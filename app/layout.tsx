@@ -15,7 +15,7 @@ const geist = Geist({
   display: 'swap',
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://cairn.vercel.app';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://cairnfund.com';
 const TITLE = 'Cairn — A retirement plan you can read';
 const DESC = 'A retirement planning tool that explains itself. Built for the gap between bank dashboards and FIRE spreadsheets.';
 
